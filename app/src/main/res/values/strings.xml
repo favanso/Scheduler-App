@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Schedule App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="one">Set Event</string>
+    <string name="two">Appointments</string>
+    <string name="EventTitle">Event Title</string>
+    <string name="EventDetails">Event Details</string>
+    <string name="EventDate">Event Date</string>
+    <string name="Instructions">DELETE ANY ENTRY BY HOLDING ON IT</string>
+    <string name="FAB">TODO</string>
+</resources>
